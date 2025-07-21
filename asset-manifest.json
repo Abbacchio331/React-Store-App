@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/React-Store-App/static/css/main.5d359222.css",
+    "main.css": "/React-Store-App/static/css/main.b6cbce29.css",
     "main.js": "/React-Store-App/static/js/main.8902e9a6.js",
     "static/media/wabi_sabi_alpha.png": "/React-Store-App/static/media/wabi_sabi_alpha.d63e70beb66091d6483e.png",
     "static/media/react-logo-xs.png": "/React-Store-App/static/media/react-logo-xs.de4e1dfb032d7033787d.png",
     "index.html": "/React-Store-App/index.html",
-    "main.5d359222.css.map": "/React-Store-App/static/css/main.5d359222.css.map",
+    "main.b6cbce29.css.map": "/React-Store-App/static/css/main.b6cbce29.css.map",
     "main.8902e9a6.js.map": "/React-Store-App/static/js/main.8902e9a6.js.map"
   },
   "entrypoints": [
-    "static/css/main.5d359222.css",
+    "static/css/main.b6cbce29.css",
     "static/js/main.8902e9a6.js"
   ]
 }
