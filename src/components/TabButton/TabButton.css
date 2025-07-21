@@ -6,10 +6,11 @@
     list-style-type: none;
     display: flex;
     justify-content: center;
+    flex-wrap: wrap;
 }
 
 #tab-buttons > ul > li{
-    margin: 0 2vw;
+    margin: 0 2vw 20px 2vw;
     color: #ddd;
     background-color: rgba(50, 130, 184, 0.8);
     padding: 15px;
