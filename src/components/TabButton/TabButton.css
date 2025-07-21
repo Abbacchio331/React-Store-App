@@ -1,0 +1,30 @@
+#tab-buttons{
+    margin-top: 100px;
+}
+
+#tab-buttons > ul{
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+}
+
+#tab-buttons > ul > li{
+    margin: 0 2vw;
+    color: #ddd;
+    background-color: rgba(50, 130, 184, 0.8);
+    padding: 15px;
+    border-radius: 15px;
+    transition: 0.3s;
+    cursor: pointer;
+    font-weight: bolder;
+    text-transform: uppercase;
+}
+
+#tab-buttons > ul > li:hover,
+#tab-buttons > ul > li.active{
+    filter: brightness(125%);
+}
+
+#tab-buttons > ul > li.active{
+    cursor: default;
+}

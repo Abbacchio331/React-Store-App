@@ -1,0 +1,48 @@
+#selling-section{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 0 48px;
+  margin-top: 50px;
+}
+
+#selling-section > div{
+  width: 250px;
+  max-width: 100vw;
+  margin: 2.5vw;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: rgba(50, 130, 184, 0.8);
+  border-radius: 15px;
+  padding: 20px;
+  transition: 0.3s;
+  cursor: pointer;
+}
+
+#selling-section > div:hover{
+  filter: brightness(125%);
+}
+
+#selling-section > div > img{
+  max-width: 20vw;
+  width: 200px;
+  max-height: 20vh;
+  height: 15vw;
+  object-fit: contain;
+}
+
+#selling-section > div > div > h1{
+  color: #eee;
+  font-size: 18px;
+  margin: 10px 0;
+  width: 210px;
+  max-width: 90vw;
+}
+
+#selling-section > div > div > p{
+  color: #eee;
+  font-size: 16px;
+  width: 210px;
+  max-width: 90vw;
+}
